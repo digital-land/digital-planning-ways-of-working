@@ -1,8 +1,8 @@
 ---
-title: Planning Data Wiki
+title: Ways Of Working
 ---
 
-Welcome to the Planning Data Wiki. This is used by the members of the team to store documentation from a few key areas:
+Welcome to the Digital Planning Ways Of Working. This is used to store general guidance for developers working on systems in planning data. It aims to align with the [MHCLG Way](https://communitiesuk.github.io/mhclg-way/) but to be more opinionated for how we work in Digital Planning
 
 - [Architecture & Infrastructure](/architecture-and-infrastructure/) - A section on how we deploy our code in the cloud
 - [Development](/development/) - generall information for developers working on our projects
