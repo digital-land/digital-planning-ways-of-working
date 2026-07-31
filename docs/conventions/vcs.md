@@ -6,11 +6,11 @@ title: VCS Teams, Repositories & Branches
 
 Projects are the ownership and permission boundary.
 
-```
+```text
 <project>
 ```
 
-```
+```text
 <project>-devops
 <project>-eng
 <project>-read
@@ -38,7 +38,7 @@ Add contractor
 Repositories represent technical assets.
 Preferred naming:
 
-```
+```text
 <project>-<component>
 ```
 
