@@ -4,7 +4,7 @@ title: Environments (AWS & CI/CD)
 
 Status: Proposed
 
-Standard Environment Names
+ ### Standard Environment Names
 
 Use the MHCLG Cloud Platform environment names throughout AWS accounts, GitHub Environments and CI/CD pipelines. Learn more about AWS account types on the intranet.
 
@@ -27,9 +27,11 @@ live
 prod
 ```
 
-AWS Account Naming
+### AWS Account Naming
 
+```
 <project>-<environment>
+```
 
 Examples:
 
@@ -40,7 +42,7 @@ align-staging
 align-production
 ```
 
-GitHub Environment Naming
+### GitHub Environment Naming
 
 ```
 development
@@ -49,7 +51,7 @@ staging
 production
 ```
 
-Deployment Model
+### Deployment Model
 
 Use a single deployable branch: 
 
